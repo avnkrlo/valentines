@@ -139,8 +139,8 @@ body {
 .ijustcode {
   position: absolute;
   top: 133.3333333333px;
-  right: 0;
-  height: 100px;
+  right: -10px;
+  height: 100%;
   margin: auto;
   backface-visibility: hidden;
   transform: translateX(50%);

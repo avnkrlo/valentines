@@ -1,5 +1,5 @@
-$cardRatio: calc(16 / 9);
-$cardWidth: 300px;
+$cardRatio: calc((16 / 9) * 2);
+$cardWidth: 100%;
 $cardHeight: $cardWidth * $cardRatio;
 $cardColor: transparent;
 $cardColorAlt: transparent;
