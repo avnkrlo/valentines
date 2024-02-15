@@ -13,8 +13,8 @@
 			confettiColors: ["#fce18a", "#ff726d", "#b48def", "#f4306d"],
 			confettiSpeed: ["slow", "medium", "fast"],
 			confetiCount: 0,
-			confetiLimit: 100,
-			confettiDestroyTime: 3000, //ms
+			confetiLimit: 1000,
+			confettiDestroyTime: 5000, //ms
 			confettiRenderTime: 60, //ms
 			confettiSizeRange: [3, 7],
 		};

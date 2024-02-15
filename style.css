@@ -18,7 +18,7 @@ body {
 .card-wrapper {
   width: 600px;
 }
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   .card-wrapper {
     width: 100%;
   }
@@ -202,7 +202,7 @@ Confeti styles
   }
 }
 .confetti-container {
-  perspective: 700px;
+  perspective: 100%;
   position: absolute;
   overflow: hidden;
   top: 0;
